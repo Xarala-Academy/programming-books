@@ -3,3 +3,5 @@
 • **[Fluent Python](fluent-python.md)**
 
 • **[JavaScript: The Definitive Guide (6 edition)](javascript-the-definitive-guide.md)**
+
+• **[Git: Le guide](git-book.md)**
